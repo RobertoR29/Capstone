@@ -6,12 +6,12 @@ This capstone project evaluated three leading open-source malware analysis platf
 ---
 
 ## My Role
-- Deployed and configured the CAPE Sandbox environment on Ubuntu Linux.
-- Built and managed the virtualized malware analysis environment.
-- Executed all malware and benign samples through the CAPE platform.
-- Analyzed generated reports to identify behavioral indicators and malicious activity.
-- Reviewed process execution, network communications, file system changes, memory artifacts, and indicators of compromise (IOCs).
-- Compared CAPE results against findings from Cuckoo3 and DRAKVUF to evaluate differences in forensic visibility and malware detection capabilities.
+- Deployed and configured the CAPE Sandbox environment on Ubuntu Linux
+- Built and managed the virtualized malware analysis environment
+- Executed all malware and benign samples through the CAPE platform
+- Analyzed generated reports to identify behavioral indicators and malicious activity
+- Reviewed process execution, network communications, file system changes, memory artifacts, and indicators of compromise (IOCs)
+- Compared CAPE results against findings from Cuckoo3 and DRAKVUF to evaluate differences in forensic visibility and malware detection capabilities
 
 ---
 
