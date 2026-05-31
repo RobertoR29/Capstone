@@ -29,4 +29,4 @@ This capstone project evaluated three leading open-source malware analysis platf
 
 ---
 
-> **Note:** The complete research paper and presentation for this project can be found in this repository.# Capstone
+> **Note:** The complete research paper and presentation for this project can be found in this repository.
